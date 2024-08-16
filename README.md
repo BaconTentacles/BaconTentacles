@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaconTentacles
-- 👀 I’m interested in .NET Core, PowerShell, Python, and basically anything else I can think of.
-- 🌱 I’m currently learning advanced PowerShell
+- 👀 I’m interested in .NET Core, PowerShell, JavaScript (many many flavors), TypeScript, and basically anything else I can think of.
+- 🌱 I’m currently learning JavaScript...again - it's changed a lot since I used it last in the late 90's. 
 - 💞️ I’m looking to collaborate on ... good question - not sure yet.  
 - 📫 How to reach me - @BaconTentacles on Twitter
 
